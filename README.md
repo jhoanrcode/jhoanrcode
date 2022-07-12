@@ -1,10 +1,5 @@
-### Hi there 👋
-
 <!--
-**jhoanrcode/jhoanrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hello, amigos 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+✨ _special_ ✨ repository
 -->
+
+### 👋 Hola amigos! 👋
+
+Soy **Jhoan**:
+
+- 🌐 Frontend Developer
+- 🎨 Designer UX&UI 
+- 💬 Preguntame sobre ... Vue, JavaScript, CSS, etc.
+- 📫 Proximamente estare compartiendo mi pagina web
+- 🎿 Roller Inline Skater
+
+Encantado estes aquí. Espero que encuentres útiles mis repositorios públicos 👇. 
